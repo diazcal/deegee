@@ -17,10 +17,6 @@ What the service does is providing random Duck emails linked to a duck account t
 With this constellation I can use emails for termporal services or stupid subscriptions that ask for it. I created a set of filters in Proton to handle it 
 better.
 
-## Calendar
-
-## Drive
-
 **PROS**
 * No more email tracking.
 * Encrypted emails when needed.
@@ -29,6 +25,10 @@ better.
 **CONS**
 * Rely on DuckDuckGo: it introduces a man in the middle that needs to be audited from time to time.
 * Not the most comfortable setup.
+
+## Calendar
+
+## Drive
 
 ## Web Browser
 I switched from Chrome to Safari however that was far from optimal. Since I am using DuckDuckGo email protection I thought I would give a try to their macOS browser. So far so good.<br>
