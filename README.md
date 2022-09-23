@@ -27,8 +27,10 @@ better.
 * Not the most comfortable setup.
 
 ## Calendar
+WIP
 
 ## Drive
+WIP
 
 ## Web Browser
 I switched from Chrome to Safari however that was far from optimal. Since I am using DuckDuckGo email protection I thought I would give a try to their macOS browser. So far so good.<br>
@@ -48,3 +50,7 @@ I still have Brave Browser on my radar. I might change in the future.
 * Beta browser.
 * At this time an invitation is needed (waiting list is quite short, just a matter of days)
 * No bookmark sync, tab grouping and all that stuff I had with Safari.
+
+## Services
+### YouTube
+WIP
