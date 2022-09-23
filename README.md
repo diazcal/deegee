@@ -25,3 +25,20 @@ better.
 **CONS**
 * Rely on DuckDuckGo: it introduces a man in the middle that needs to be audited from time to time.
 * Not the most comfortable setup.
+
+## Web Browser
+I switched from Chrome to Safari however that was far from optimal. Since I am using DuckDuckGo email protection I thought I would give a try to their macOS browser. So far so good.<br>
+https://duckduckgo.com/mac
+
+![DuckDuckGo for Mac](https://duckduckgo.com/static-assets/image/mac/screenshot.png)
+
+**PROS**
+* Super fast!
+* Easy integration with email protection.
+* Works all the sites I visit. No problem so far.
+* Aligned with my privacy concerns.
+
+**CONS**
+* Beta browser.
+* At this time an invitation is needed (waiting list is quite short, just a matter of days)
+* No bookmark sync, tab grouping and all that stuff I had with Safari.
