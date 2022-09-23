@@ -36,6 +36,8 @@ https://duckduckgo.com/mac
 
 ![DuckDuckGo for Mac](https://duckduckgo.com/static-assets/image/mac/screenshot.png)
 
+I still have Brave Browser on my radar. I might change in the future.
+
 **PROS**
 * Super fast!
 * Easy integration with email protection.
