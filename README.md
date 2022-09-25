@@ -6,7 +6,7 @@ I've ditched my old Gmail account and now I am using **Proton Mail** as my email
 Link to proton: https://proton.me/
 
 Together with Proton Mail I use DuckDuckGo email protection service: https://duckduckgo.com/email<br>
-What the service does is providing random Duck emails linked to a duck account that will forward them to whatever your personal email address is.<br>
+What the service does is providing random Duck emails linked to a duck account that will forward them to whatever your personal email address is removing any tracking.<br>
 
 ```
 |-------------------|      |---------------------|        |-------------------------|
