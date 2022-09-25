@@ -27,10 +27,10 @@ better.
 * Not the most comfortable setup.
 
 ## Calendar
-WIP
+At this time I am using Apple Calendar but will migrate to Proton Calendar when there's an iOS app available.
 
 ## Drive
-WIP
+Sames as Calendar, from iCloud to Proton Drive when there's an app. At this time Proton offers 15Gb with my subscription which should be enough for my most important documents.
 
 ## Web Browser
 I switched from Chrome to Safari however that was far from optimal. Since I am using DuckDuckGo email protection I thought I would give a try to their macOS browser. So far so good.<br>
