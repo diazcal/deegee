@@ -1,5 +1,8 @@
 # DeGooglelize-it!
-This repository will collect my steps to degooglelize my life as much as possible.
+This repository will collect my steps to degooglelize my life as much as possible.<br>
+I am worried about privacy and data sovereignty, so there's a double purpose with this when looking for alternatives to Google services.
+
+Btw there's nothing wrong with Google itself. I think is a great company with awesome products and initiatives. However I am worried about the ammount of information about my persona I am giving for free when using their services. This situation gets even worse if I add it up together with the issue with subscriptions, spam, and everyone trying to profile me when surfing the web.
 
 ## Email
 I've ditched my old Gmail account and now I am using **Proton Mail** as my email provider.<br>
@@ -51,6 +54,12 @@ I still have Brave Browser on my radar. I might change in the future.
 * At this time an invitation is needed (waiting list is quite short, just a matter of days)
 * No bookmark sync, tab grouping and all that stuff I had with Safari.
 
-## Services
+## Services 
 ### YouTube
+WIP
+
+### Twitter
+WIP
+
+### WhatsApp
 WIP
