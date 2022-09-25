@@ -16,6 +16,7 @@ What the service does is providing random Duck emails linked to a duck account t
 | 123asd@duck.com   | ---> |  diazduck@duck.com  |  --->  |  therealthing@proton.me |
 |-------------------|      |---------------------|        |-------------------------|
     Random email                My Duck email               My personal Proton mail
+                           (of course this is fake)            (and this one too)
 ```
 With this constellation I can use emails for termporal services or stupid subscriptions that ask for it. I created a set of filters in Proton to handle it 
 better.
