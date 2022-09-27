@@ -29,7 +29,7 @@ What the service does is providing random Duck emails linked to a duck account t
                             
                         (contextual custom Proton addresses)
 ```
-With this constellation I can use emails for termporal services or stupid subscriptions that ask for it. I created a set of filters in Proton and custom Proton addresses for shopinb, banking, etc to handle it better.
+With this constellation I can use emails for termporal services or stupid subscriptions that ask for it. I created a set of filters in Proton and custom Proton addresses for shoping, banking, etc to handle it better.
 
 **PROS**
 * No more email tracking.
