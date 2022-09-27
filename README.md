@@ -12,14 +12,24 @@ Together with Proton Mail I use DuckDuckGo email protection service: https://duc
 What the service does is providing random Duck emails linked to a duck account that will forward them to whatever your personal email address is removing any tracking.<br>
 
 ```
-|-------------------|      |---------------------|        |-------------------------|
-| 123asd@duck.com   | ---> |  diazduck@duck.com  |  --->  |  therealthing@proton.me |
-|-------------------|      |---------------------|        |-------------------------|
-    Random email                My Duck email               My personal Proton mail
-                           (of course this is fake)            (and this one too)
+|-------------------|       |-------------------|        |---------------------|
+| 123asd@duck.com   | --->  |  myduck@duck.com  |  --->  |  myproton@proton.me |
+|-------------------|       |-------------------|        |---------------------|
+    Random email                My Duck email                 My Proton mail
+                           (of course this is fake)         (and this one too)
+                                                                    ^
+                                                                    |
+                            |----------------------|                |
+                            | myshopping@proton.me |----------------|     
+                            |----------------------|                |
+                                                                    | 
+                            |----------------------|                |
+                            | mybanking@proton.me  |----------------|
+                            |----------------------|
+                            
+                        (contextual custom Proton addresses)
 ```
-With this constellation I can use emails for termporal services or stupid subscriptions that ask for it. I created a set of filters in Proton to handle it 
-better.
+With this constellation I can use emails for termporal services or stupid subscriptions that ask for it. I created a set of filters in Proton and custom Proton addresses for shopinb, banking, etc to handle it better.
 
 **PROS**
 * No more email tracking.
